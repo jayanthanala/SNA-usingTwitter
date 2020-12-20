@@ -6,7 +6,7 @@ install.packages("twitteR") ##Twitter API
 library(twitteR)
 library(rio)
 
-#Consumer key and Access Tokens:
+#Consumer key and Access Tokens: #NOT MINE THO
 consumerKey <- 'Nt7ynRIbnJHZ4YggIshkoo208'
 consumerSecret <- 'TV1oZol5VHKNJprHgKDjoSUUN08KAF7b3PzqlmyPkwRRybCSWd'
 accessToken <- '706742912629903361-sLCNwv4WRlpJnLwhASItGqTeFMAeE5X' 
